@@ -1,0 +1,1 @@
+# Thailand-new-hotel-opportunity
