@@ -1,0 +1,3 @@
+https://postal-codes.cybo.com/thailand/
+https://github.com/apisit/thailand.json/blob/master/thailandWithName.json
+https://developers.arcgis.com/python/guide/reverse-geocoding/
